@@ -1,7 +1,7 @@
-- 👋 Hi, I’m iDream2
-- 👀 I’m interested in Full stack development and theory of computation
-- 🌱 I’m currently learning CSE and in my 1st semester
-- 💞️ I am very new to programming and Languages....so I am just wiling to learn
+- 👋 Hi, I’m Deb
+- 👀 I’m interested in Full stack development.
+- 🌱 I’m currently learning CSE and in my 3rd semester
+- 💞️ I have accumulated some experience with languages like C, python and Javascript. Also hold 3 stars on SQL and 2 stars on Problem Solving in Hackerrank. Have completed a free codecamp course on HTML and CSS.
 - 📫 How to reach me.....just mail me at akashdebn2@gmail.com
 
 <!---
