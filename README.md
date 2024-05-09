@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deb
 - 👀 I’m interested in Full stack development and ML.
-- 🌱 I’m currently learning CSE and in my 6thsemester
-- 💞️ I have accumulated some experience with languages like C, python and Javascript. Also hold 3 stars on SQL and 2 stars on Problem Solving in Hackerrank. Have completed a free codecamp course on HTML and CSS.
+- 🌱 I’m currently learning CSE and in my 6th semester
+- 💞️ I have accumulated experience with languages like C++, Python, Javascript. 
 - 📫 How to reach me.....just mail me at akashdebn2@gmail.com
 
 <!---
